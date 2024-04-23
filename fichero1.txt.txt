@@ -1,2 +1,6 @@
 me gusta el instituto
+<<<<<<< HEAD
 nueva linea añadidad hoy martes
+=======
+holaa cambios
+>>>>>>> nueva_rama_nueva
